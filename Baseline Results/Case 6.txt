@@ -45,5 +45,3 @@ However, it's important to note that I am an AI and cannot provide an official d
 
 [Patient]: no thank you goodbye 
 [Gemini]: Goodbye.  Take care.
-
-"""" panic disorder with agoraphobia. Correctly diagnosed panic disorder but did not diagnose agoraphobia because the AI failed to ask the question about any drugs.""""

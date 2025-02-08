@@ -24,5 +24,3 @@
 
 [Patient]: thank you goodbye 
 [Gemini]: Goodbye.
-
-"""" The main considerations are whether this is ‘baby blues’ or whether something more serious is going on such as puerperal depression or puerperal psychosis. AI correctly predicted that it could baby blues. """"

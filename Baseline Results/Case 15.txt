@@ -36,7 +36,7 @@ It's alright if you can't share everything right now.  We can take it at your ow
 [Gemini]: So it's been increasing in frequency and intensity over the past few months.  Have you noticed any patterns to when the voice is more prominent, such as particular times of day or during specific activities?
 
 [Patient]: well it's constant now 
-[Gemini]: You mentioned earlier that you feel like you�re constantly being watched. Is this feeling connected to the voice you hear, or is it a separate experience?
+[Gemini]: You mentioned earlier that you feel like you re constantly being watched. Is this feeling connected to the voice you hear, or is it a separate experience?
 
 [Patient]: it's connected 
 [Gemini]: Can you explain how the feeling of being watched and the voice are connected?
@@ -94,5 +94,3 @@ Further evaluation is crucial to determine the most appropriate diagnosis.  This
 * **Physical examination and laboratory tests:** Ruling out any underlying medical conditions or substance use contributing to her symptoms.
 
 It's important to note that I cannot provide a definitive diagnosis.  A comprehensive assessment by a qualified mental health professional is necessary.
-
-"""" schizophrenia (correct by AI), schizoaffective disorder , drug-related psychosis(correct by AI) and organic medical conditions. """"

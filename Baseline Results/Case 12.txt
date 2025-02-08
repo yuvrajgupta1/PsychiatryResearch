@@ -11,10 +11,10 @@
 [Gemini]: So you've taken time off work to focus solely on this project?  And you're not sleeping much but don't feel tired?  Could you describe your appetite during this time - are you eating more, less, or about the same?  Are you experiencing any other unusual symptoms like racing thoughts, difficulty focusing, or feelings of irritability?
 
 [Patient]: I think I don't sleep 
-[Gemini]: Okay, Smith.  You mentioned you think you don't sleep. Can you clarify � do you mean you're not sleeping at all, or are you sleeping very little?  It's important to be as precise as possible. Can you also tell me about your appetite?  Are you eating more, less, or about the same as usual?
+[Gemini]: Okay, Smith.  You mentioned you think you don't sleep. Can you clarify   do you mean you're not sleeping at all, or are you sleeping very little?  It's important to be as precise as possible. Can you also tell me about your appetite?  Are you eating more, less, or about the same as usual?
 
 [Patient]: I just sleep a few hours here and there but I'd rather be working I tried taking more of my set low prompt to help but it's like I still feel this energy I thought maybe doubling up would help me stay focused 
-[Gemini]: You mentioned taking more of your "set low prompt." Could you clarify what that is?  Is it a prescribed medication? It's important for me to understand what you're taking. Also, you mentioned difficulty focusing despite this increased dosage � could you elaborate on that? What does your difficulty focusing look like?  Are you easily distracted, or do you have trouble starting or completing tasks?
+[Gemini]: You mentioned taking more of your "set low prompt." Could you clarify what that is?  Is it a prescribed medication? It's important for me to understand what you're taking. Also, you mentioned difficulty focusing despite this increased dosage   could you elaborate on that? What does your difficulty focusing look like?  Are you easily distracted, or do you have trouble starting or completing tasks?
 
 [Patient]: I meant to say cylo brand 
 [Gemini]: Thank you for clarifying, Smith. Cylo brand... is that a prescription medication, over-the-counter, or something else?  Knowing this information will help Dr. Allen. Also, could you please tell me more about how this increased energy is affecting your daily life, beyond your work on this project? For example, has it impacted your relationships with friends or family?
@@ -38,7 +38,7 @@
 [Gemini]: Phlebotomy is the process of making an incision in a vein with a needle. This is typically done to draw blood for testing or donation. How does phlebotomy relate to your project and this "breakthrough" you've had?  And to help Dr. Allen understand the changes you've been experiencing, could you provide a few concrete examples of how your behavior has been different lately?  For instance, are you staying up later than usual, spending more money than you typically would, or engaging in any other unusual activities?  Specific examples will help us get a clearer picture.
 
 [Patient]: earlier I've had my loose I have been on my prescription for a while because I get this depressive episodes but this is different I feel amazing but now that I think about it there were a few times in the past when I had these bursts of energy but nothing like this 
-[Gemini]: You mentioned having "loose" earlier � could you clarify what you meant by that?  You also said you've been on your prescription for depressive episodes, and that you've had bursts of energy in the past, though not this intense.  When were these previous episodes, and how long did they typically last?  Also, can you tell me if, during these past episodes, you experienced any other symptoms similar to what you're experiencing now, like changes in spending habits, sleep patterns, or increased confidence?  Providing these details will help us understand the full picture.
+[Gemini]: You mentioned having "loose" earlier   could you clarify what you meant by that?  You also said you've been on your prescription for depressive episodes, and that you've had bursts of energy in the past, though not this intense.  When were these previous episodes, and how long did they typically last?  Also, can you tell me if, during these past episodes, you experienced any other symptoms similar to what you're experiencing now, like changes in spending habits, sleep patterns, or increased confidence?  Providing these details will help us understand the full picture.
 
 [Patient]: I meant laws 
 [Gemini]: You mentioned "laws" - could you clarify how laws relate to your current situation and this project?  Also, trying to understand the pattern of your previous episodes of increased energy is important. Could you please tell me approximately when these episodes occurred and how long each one lasted? Any information you can remember about these past experiences, including any other symptoms you experienced at the time, would be helpful.
@@ -83,6 +83,3 @@ It's crucial to gather further information from Smith to clarify the nature of h
     mood symptoms.
 • Schizoaffective disorder: Mood symptoms and schizophrenia symptoms are equally prominent.
 • Acute confusional state: The agitation and affective lability seen in acute confusional states may mimic a manic episode.
-
-AI correctly identified Drug - induced manic ep (Substance induced mood disorder), Hypomania.
-""""

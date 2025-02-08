@@ -31,7 +31,7 @@
 [Gemini]: Please take your time, Miss Jones.  There's no rush. Even small changes can be important to understand what you're going through.  Anything you can share, even if it seems insignificant, could be helpful.
 
 [Patient]: I can't relax anymore so like I'm getting less and less sleep every day and whenever I'm outside I started carrying a nice just to protect myself you know I feel like it's the only way I can stay safe 
-[Gemini]: Carrying a knife for protection suggests how intense these feelings of fear are for you, Miss Jones.  Thank you for being honest about that.  It�s important for us to understand the full picture of what you�re experiencing. Can you tell me, have you ever felt this way before?  Have you experienced periods of suspicion or fear like this in the past?
+[Gemini]: Carrying a knife for protection suggests how intense these feelings of fear are for you, Miss Jones.  Thank you for being honest about that.  It s important for us to understand the full picture of what you re experiencing. Can you tell me, have you ever felt this way before?  Have you experienced periods of suspicion or fear like this in the past?
 
 
 
@@ -47,7 +47,7 @@
 
 
 [Patient]: no I just have this feeling that's it 
-[Gemini]: Okay. You mentioned earlier that you�re having trouble sleeping and that you�re carrying a knife.  Have you considered talking to a doctor or mental health professional about these feelings before today?
+[Gemini]: Okay. You mentioned earlier that you re having trouble sleeping and that you re carrying a knife.  Have you considered talking to a doctor or mental health professional about these feelings before today?
 
 
 
@@ -73,5 +73,4 @@ Further evaluation is needed to confirm a diagnosis.  Key questions to explore i
 
 
 A thorough psychiatric evaluation, potentially including psychological testing, is recommended.  Given her stated fear for her safety and carrying a knife for protection, assessing for any immediate danger to herself or others is paramount.
-
-"""" organic psychosis, drug-induced psychosis (Substance induced, correct), schizophrenia (correct), bipolar disorder, brief reactive psychosis 
+ 

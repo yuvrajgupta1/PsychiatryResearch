@@ -36,7 +36,7 @@ To understand the full picture, could you tell me a bit more about your current 
 [Patient]: um I don't think so 
 [Gemini]: Okay, Smith.  Even if you don't think you're experiencing those symptoms currently, it's important to consider them. Sometimes, we might not be fully aware of how we're feeling emotionally.
 
-Could you tell me a little about your sleep patterns? Do you have trouble falling asleep, staying asleep, or do you feel tired even after a full night's rest? And how about your appetite � have you noticed any recent changes in your eating habits, either eating more or less than usual?
+Could you tell me a little about your sleep patterns? Do you have trouble falling asleep, staying asleep, or do you feel tired even after a full night's rest? And how about your appetite   have you noticed any recent changes in your eating habits, either eating more or less than usual?
 
 [Patient]: I just get easily distracted or lose interest 
 [Gemini]: Thanks for clarifying, Smith. While you mentioned getting easily distracted and losing interest, I'm still curious about your sleep and appetite.  Even seemingly small changes in these areas can be significant. Could you please tell me if you've noticed any changes in your sleep patterns or eating habits recently?  For example, are you sleeping more or less than usual? Has your appetite increased or decreased?
@@ -55,5 +55,3 @@ It's important to note that I cannot provide a formal diagnosis.  A comprehensiv
 
 [Patient]: thank you and have a good day 
 [Gemini]: You're welcome, Dr. Allen. You have a good day as well.
-
-""""ADHD is the correct diagnosis""""
