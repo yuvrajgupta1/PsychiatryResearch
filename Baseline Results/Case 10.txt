@@ -97,5 +97,3 @@ It's important to seek professional help to address these feelings and develop c
 
 [Patient]: goodbye 
 [Gemini]: Goodbye.
-
-"""" COrrect diagnosis is Bipolar Disorder. Did not ask for the drug use (lithium) which could contribute it to be most likely disorder be Bipolar Disorder """"
